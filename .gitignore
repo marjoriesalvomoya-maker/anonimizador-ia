@@ -1,0 +1,11 @@
+.venv/
+build/
+dist/
+salida/
+dmg_tmp/
+__pycache__/
+*.pyc
+*.tabla
+*_anonimizado*
+*_revertido*
+ejemplos/
